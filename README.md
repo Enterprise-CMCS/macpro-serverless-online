@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/ef609ac253393800cb0e/maintainability)](https://codeclimate.com/github/CMSgov/serverless-online/maintainability)
+
 # Serverless Online
 
 This plugin is meant to facilitate faster lambda development against AWS.
